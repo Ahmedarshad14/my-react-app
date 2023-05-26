@@ -7,7 +7,7 @@ function Student(props){
             <hr />
             <p>The name of second student is {props.student2}</p>
             <hr />
-            <p>Both of them love {props.dishName}</p>
+            <p>Both of them love {props.dishName}!</p>
        </div>)
 }
 
